@@ -1,0 +1,21 @@
+Column,Lower Limit,Upper Limit,Outlier Count
+age,13.0,29.0,0
+cgpa,4.780000000000001,10.219999999999999,361
+internships_count,-0.5,3.5,6565
+projects_count,-1.0,7.0,1176
+certifications_count,-2.0,6.0,438
+coding_skill_score,29.43171983161289,110.43498693428276,341
+aptitude_score,24.617600610008452,105.35626569786936,355
+communication_skill_score,30.21321463628042,105.87807011080841,326
+logical_reasoning_score,25.68080977149223,106.37344222023538,362
+hackathons_participated,-3.0,5.0,49
+github_repos,0.0,8.0,2163
+linkedin_connections,-428.5,1479.5,0
+mock_interview_score,37.74980571153316,102.345448619487,399
+attendance_percentage,58.1408157915896,111.96752840468218,373
+backlogs,-1.5,2.5,1481
+extracurricular_score,6.022125771817755,114.0660314425336,325
+leadership_score,0.7858017980225753,109.1767031691371,302
+sleep_hours,3.0,11.0,0
+study_hours_per_day,-0.5,7.5,353
+salary_package_lpa,-20.205000000000002,33.675000000000004,0
